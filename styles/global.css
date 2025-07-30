@@ -18,3 +18,14 @@
     --text-color-primary: #313131;
     --text-color-secondary: #6C6C6C;
 }
+
+a {
+    text-decoration: none;
+    font-family: var(--font-family);
+    color: var(--text-color-secondary);
+}
+
+a:hover {
+    color: var(--brand-color);
+    text-decoration: underline;
+}

@@ -19,6 +19,10 @@
     --text-color-secondary: #6C6C6C;
 }
 
+body {
+    background-color: var(--background-color);
+}
+
 a {
     text-decoration: none;
     font-family: var(--font-family);

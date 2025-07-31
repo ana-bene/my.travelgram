@@ -45,3 +45,7 @@ a:hover {
 .surface-color {
     background-color: var(--surface-color);
 }
+
+ul li {
+    list-style: none;
+}

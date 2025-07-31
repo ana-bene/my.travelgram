@@ -1,6 +1,7 @@
 header {
     padding-block: 32px;
     font: var(--text-md);
+    max-width: 1275px;
 }
 
 header .container {
